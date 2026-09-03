@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.9.2)  2 SEP 2026 15:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.9.2)  2 SEP 2026 23:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -555,9 +555,6 @@ LaTeX Warning: Label `s1' multiply defined.
 
 LaTeX Warning: Label `s2' multiply defined.
 
-
-LaTeX Warning: Label `s3' multiply defined.
-
 (./authors.aux) (./links.aux))
 \openout1 = `main.aux'.
 
@@ -680,106 +677,43 @@ LaTeX Font Info:    Trying to load font information for U+euex on input line 43.
 File: ueuex.fd 2013/01/14 v3.01 Euler extra symbols
 ) (./tsvetkova/tsvetkova.tex
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 10.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 9.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <7> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 10.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 9.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <5> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 10.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 9.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 10.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 9.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 10.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 9.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <5> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 10.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 9.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <9> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 10.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 9.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <9> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 10.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 9.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <10.95> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 16.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 15.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 16.
-<./tsvetkova/tsvetkova.jpg, id=6, 201.042pt x 121.545pt>
-File: ./tsvetkova/tsvetkova.jpg Graphic file (type jpg)
-<use ./tsvetkova/tsvetkova.jpg>
-Package pdftex.def Info: ./tsvetkova/tsvetkova.jpg  used on input line 36.
-(pdftex.def)             Requested size: 378.95906pt x 229.08408pt.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 15.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<./tsvetkova/tsvetkova2.jpg, id=7, 361.35pt x 492.84125pt>
-File: ./tsvetkova/tsvetkova2.jpg Graphic file (type jpg)
-<use ./tsvetkova/tsvetkova2.jpg>
-Package pdftex.def Info: ./tsvetkova/tsvetkova2.jpg  used on input line 48.
-(pdftex.def)             Requested size: 104.97076pt x 143.17207pt.
-<./tsvetkova/tsvetkova3.jpg, id=8, 576.65437pt x 657.95813pt>
-File: ./tsvetkova/tsvetkova3.jpg Graphic file (type jpg)
-<use ./tsvetkova/tsvetkova3.jpg>
-Package pdftex.def Info: ./tsvetkova/tsvetkova3.jpg  used on input line 52.
-(pdftex.def)             Requested size: 125.4741pt x 143.17207pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-File: ./tsvetkova/tsvetkova2.jpg Graphic file (type jpg)
-<use ./tsvetkova/tsvetkova2.jpg>
-Package pdftex.def Info: ./tsvetkova/tsvetkova2.jpg  used on input line 63.
-(pdftex.def)             Requested size: 104.97076pt x 143.17207pt.
-File: ./tsvetkova/tsvetkova.jpg Graphic file (type jpg)
-<use ./tsvetkova/tsvetkova.jpg>
-Package pdftex.def Info: ./tsvetkova/tsvetkova.jpg  used on input line 68.
-(pdftex.def)             Requested size: 236.8379pt x 143.17207pt.
-
-Overfull \hbox (14.88115pt too wide) in paragraph at lines 68--69
- [] 
- []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Overfull \hbox (18.4672pt too wide) in paragraph at lines 106--106
- []|\T2A/cmr/m/up/10.95 Ô®èÔ®èÔ®èÔ®èÔ®èÔ®è 
- []
-
-
-Overfull \hbox (18.4672pt too wide) in paragraph at lines 107--107
- []|\T2A/cmr/m/up/10.95 Ô®èÔ®èÔ®èÔ®èÔ®èÔ®è 
- []
-
-
-Overfull \hbox (18.4672pt too wide) in paragraph at lines 108--108
- []|\T2A/cmr/m/up/10.95 Ô®èÔ®èÔ®èÔ®èÔ®èÔ®è 
- []
-
-
-Overfull \hbox (18.4672pt too wide) in paragraph at lines 109--109
- []|\T2A/cmr/m/up/10.95 Ô®èÔ®èÔ®èÔ®èÔ®èÔ®è 
+Underfull \hbox (badness 1354) in paragraph at lines 37--46
+\T2A/cmr/m/up/10.95 ÏÂÊ-‰Û ˝Î-ÎËÔ-ÚË-˜Â-ÒÍË-ÏË Ó-·Ë-Ú‡-ÏË ‚ ÔÓ-ÎÂ ÚÓ-˜Â˜-ÌÓ-„Ó ÔË-Úˇ-„Ë-‚‡-˛-˘Â-„Ó ˆÂÌ-Ú‡. ¬ Í‡-
  []
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}
 
 
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [2 <./tsvetkova/tsvetkova.jpg> <./tsvetkova/tsvetkova2.jpg> <./tsvetkova/tsvetkova3.jpg>]
-Underfull \hbox (badness 2922) in paragraph at lines 122--123
-[]\T2A/cmr/m/up/10.95 Ô®èÔ®èÔ®èÔ®èÔ®èÔ®è Ô®è-Ô®è-Ô®è-Ô®è-Ô®è-Ô®è-Ô®è-Ô®è-Ô®è Ô®è-Ô®è-Ô®è Ô®è-Ô®è-Ô®è-Ô®è-Ô®è-Ô®è-Ô®è-Ô®è-Ô®è
- []
-
-
-Underfull \hbox (badness 2150) in paragraph at lines 128--129
-\T2A/cmr/m/up/10.95 Ô®è-Ô®è Ô®è Ô®è-Ô®è-Ô®è-Ô®è-Ô®è-Ô®è-Ô®è-Ô®è Ô®è-Ô®è-Ô®è-Ô®è-Ô®è-Ô®è-Ô®è-Ô®è-Ô®è-Ô®è-Ô®è Ô®è-Ô®è-Ô®è-Ô®è-
- []
-
-[3]) [4]
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]) [2]
 \openout2 = `authors.aux'.
 
- (./authors.tex) [5
+ (./authors.tex) [3
 
 
 ]
 \openout2 = `links.aux'.
 
- (./links.tex) [6
+ (./links.tex) [4
 
 
 
@@ -798,18 +732,18 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 8589 strings out of 474222
- 138548 string characters out of 5748734
- 1936975 words of memory out of 5000000
- 30595 multiletter control sequences out of 15000+600000
+ 8527 strings out of 474222
+ 136977 string characters out of 5748734
+ 1932975 words of memory out of 5000000
+ 30533 multiletter control sequences out of 15000+600000
  582286 words of font info for 97 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 59i,11n,65p,2329b,415s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsl1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1095.pfb>
-Output written on main.pdf (6 pages, 505010 bytes).
+ 59i,8n,65p,1346b,479s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsl1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1095.pfb>
+Output written on main.pdf (4 pages, 287688 bytes).
 PDF statistics:
- 109 PDF objects out of 1000 (max. 8388607)
- 72 compressed objects within 1 object stream
+ 92 PDF objects out of 1000 (max. 8388607)
+ 62 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
