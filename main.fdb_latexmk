@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1788380010.48477 "/home/emily/two impulse transfer article/main.tex" "main.pdf" "main" 1788380011.37874 0
+["pdflatex"] 1788561258.21012 "/home/emily/two impulse transfer article/main.tex" "main.pdf" "main" 1788561259.68685 0
   "/etc/texmf/web2c/texmf.cnf" 1788339926.55743 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/emily/.texlive2023/texmf-var/fonts/tfm/lh/lh-t2a/labx1000.tfm" 1788347950.66267 3300 6abb8e321227ead2a8e929e5abc72bd3 ""
   "/home/emily/.texlive2023/texmf-var/fonts/tfm/lh/lh-t2a/labx1095.tfm" 1788347961.91924 3336 216c27338cb0f11f0d2908d69ce3de23 ""
@@ -17,7 +17,7 @@
   "/home/emily/.texlive2023/texmf-var/fonts/tfm/lh/lh-t2a/lasl1095.tfm" 1788347967.59382 3492 e5452b84f89d15cd026bb100f06b7419 ""
   "/home/emily/.texlive2023/texmf-var/fonts/tfm/lh/lh-t2a/lati1000.tfm" 1788347973.50487 3528 defd551e32c4af414f9b54b8101bfa9b ""
   "/home/emily/.texlive2023/texmf-var/fonts/tfm/lh/lh-t2a/lati1095.tfm" 1788343594.5203 3540 aa544087ee3edf9ee068cbdc0ae52760 ""
-  "/home/emily/two impulse transfer article/main.tex" 1788350359.1457 1209 b2f7c3a7f9099e9dcb1ced003e4d1c91 ""
+  "/home/emily/two impulse transfer article/main.tex" 1788560982.78933 1261 28209b44e537f7207a7bb4d0a41fa82a ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm0900.tfm" 1136768653 1536 c4f439db76ef96a9c53bc437f35ffe20 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -138,15 +138,15 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1788339952.21311 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1788339999 8215943 d377b8008ea36a6214c1e3e9d27e4028 ""
-  "authors.aux" 1788380011.24491 1096 9db529fe5917c7104b406e50d3f18691 "pdflatex"
+  "authors.aux" 1788561259.45659 1096 9db529fe5917c7104b406e50d3f18691 "pdflatex"
   "authors.tex" 1788351392.42927 563 c8dc4f1b071a39509a0c691bf1bf112f ""
-  "links.aux" 1788380011.24991 2054 9cb5f869889783f276c4fce0bf7df200 "pdflatex"
-  "links.tex" 1788351481.7636 1555 b6fae832d4e9c57ba187e71f8dd75aaf ""
-  "main.aux" 1788380011.25091 2017 064ee33d312f4ff9e4688ed52a384daf "pdflatex"
-  "main.tex" 1788350359.1457 1209 b2f7c3a7f9099e9dcb1ced003e4d1c91 ""
+  "links.aux" 1788561259.46959 2054 9cb5f869889783f276c4fce0bf7df200 "pdflatex"
+  "links.tex" 1788515149.99085 836 7e51448853c99ffafa1b9e21cf882f4c ""
+  "main.aux" 1788561259.47159 2650 2a38b88fda92183eefd534f292e5c008 "pdflatex"
+  "main.tex" 1788560982.78933 1261 28209b44e537f7207a7bb4d0a41fa82a ""
   "mycommon.sty" 1505733040 2485 a703884138ac6bf83aff8713e31992c9 ""
   "style.sty" 1435665198 5958 5760da1c8653ddcf319c5b03a05487e6 ""
-  "tsvetkova/tsvetkova.tex" 1788380010.25542 3373 fe76ee2903f4e7a26f70cfef4467ae28 ""
+  "tsvetkova/tsvetkova.tex" 1788561257.88025 5894 22dfb216c7aef1eb62fd5752b215aa2a ""
   (generated)
   "authors.aux"
   "links.aux"
